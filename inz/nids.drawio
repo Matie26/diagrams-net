@@ -1,0 +1,57 @@
+<mxfile host="Electron" modified="2023-05-04T15:54:37.829Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="JF-XXtimI4yOxCw_r-nm" version="21.1.2" type="device">
+  <diagram name="Page-1" id="7dc6vFr-3UEaMum9dfsG">
+    <mxGraphModel dx="-159" dy="415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-41" value="" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1333.5" y="441" width="46.99" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-53" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1137" y="440" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-54" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#82b366;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_protected;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="463" width="13" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-57" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;Internet&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1335.48" y="490" width="43.02" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-58" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;firewall&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1235.96" y="490" width="43.02" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-59" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;wewnętrzna sieć firmowa&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1122" y="492" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="rSppxGmCfR0eEAAwfvu2-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-60" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
+          <mxGeometry x="1242.48" y="380" width="29.98" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-61" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;NIDS&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1236.99" y="366" width="43.02" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.805;exitY=0.45;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rSppxGmCfR0eEAAwfvu2-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1277.98" y="459.83" as="sourcePoint" />
+            <mxPoint x="1337.98" y="459.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-42" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1236.97" y="442" width="41.01" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.967;exitY=0.492;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="rSppxGmCfR0eEAAwfvu2-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1182.48" y="459.83" as="sourcePoint" />
+            <mxPoint x="1242.48" y="459.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rSppxGmCfR0eEAAwfvu2-68" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;kopia ruchu&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170.98" y="406" width="43.02" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
